@@ -1,25 +1,6 @@
-## Jenkins, Isotope11 Style
-This is a project to house a stylesheet that will make Jenkins look prettier
-than the default.
+## Jenkins Style
 
-At [isotope|eleven][isotope] we use [Jenkins CI][jenkins] for our continuous
-integration server.  This is all good, but I kind of hate how it looks.  So I
-built an open source project (it's what you do, right?) wherein I style it up
-using [Sass][sass].
-
-### Screenshots
-Here's an example of what this project will make your jenkins look like
-
-#### Our style
-![Jenkins Isotope Style](https://raw.github.com/isotope11/jenkins-isotope-style/master/doc/jenkins_isotope_style.png)
-
-#### Stock Jenkins
-This is what it looks like standard.
-![Stock Jenkins](https://raw.github.com/isotope11/Jenkins-isotope-style/master/doc/jenkins_stock.png)
-
-### Using it for your organization
-So this easy for you to modify and use for your own organization.  Here are the
-steps you'd need to take.
+This is forked from Isotope11 Style so original for details
 
 1. Install the [Jenkins Simple Theme Plugin][simple_theme].
 2. Set your custom css to `http://isotope11.github.com/jenkins-isotope-style/jenkins-isotope-style.css`
